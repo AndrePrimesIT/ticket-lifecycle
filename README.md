@@ -45,13 +45,9 @@ Karen has a problem with her computer and opens a ticket
 John logged into his osTicket account and saw Karen's ticket.
 </p>
 <br />
-
-<p>
-<img <img width="1079" height="724" alt="Screenshot 2026-04-29 181516" src="https://github.com/user-attachments/assets/49bb1446-8038-46d8-a901-ec02d601bd02" />
-John opens the ticket and sees all the information, but can't make any changes because he only has reading access
 <p>
 <img <img width="1078" height="881" alt="Screenshot 2026-04-29 181854" src="https://github.com/user-attachments/assets/c4956772-b0ea-44cd-b1e7-32b6d39da15d" />
-I gave John full access, so now he can edit the ticket.
+John opens the ticket and sees Karen's problem
 <p>
 <img <img width="730" height="286" alt="Screenshot 2026-04-29 182026" src="https://github.com/user-attachments/assets/1680dc8b-71aa-490a-8320-29e64343241d" />
 John goes ahead and calls Karen to confirm the situation.
