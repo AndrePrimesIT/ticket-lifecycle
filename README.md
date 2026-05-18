@@ -50,7 +50,7 @@ John logged into his osTicket account and saw Karen's ticket.
 John opens the ticket and sees Karen's problem
 <p>
 <img <img width="730" height="286" alt="Screenshot 2026-04-29 182026" src="https://github.com/user-attachments/assets/1680dc8b-71aa-490a-8320-29e64343241d" />
-John goes ahead and calls Karen to confirm the situation.
+ John goes ahead and calls Karen to confirm the situation and notices that the ticket priority should be set to emergency
 <p>
 <img <img width="727" height="282" alt="Screenshot 2026-04-29 182135" src="https://github.com/user-attachments/assets/7eeceb37-cf36-41c8-8bca-bd3e82b9d6e4" />
 John changes the SLA Plan to Sev-A (High Priority)
